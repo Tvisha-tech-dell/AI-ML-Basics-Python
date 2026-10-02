@@ -487,5 +487,3 @@ print(result)
 Output:
 
 30
-
-Program 1 — Even or Odd
