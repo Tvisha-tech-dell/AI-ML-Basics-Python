@@ -35,4 +35,4 @@ The purpose of this repository is to build a strong foundation in Python by lear
 
 This repository will be updated regularly as I learn new Python concepts and build more programs.
 
-**Current Level:** Beginner 🐍
+**Current Level:** Beginner 
